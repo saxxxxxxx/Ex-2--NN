@@ -1,4 +1,8 @@
-# EX-02 Implementation of Perceptron for Binary Classification
+<H3>Name: SAKETRAM R</H3>
+<H3>Register no: 212223230181</H3>
+<H3>Date: 13/03/2024</H3>
+<H3>Experiment No. 2 </H3> 
+
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:**
